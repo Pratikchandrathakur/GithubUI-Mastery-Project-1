@@ -8,7 +8,7 @@ This repository serves as a testament to my proficiency in using GitHub's web in
 
 ## Project Details
 
-- **Repository Name**: GitHub-Skill-Mastery-UI
+- **Repository Name**: Github-Mastery-Project-1
 - **Proof of Mastery**: Each commit and pull request demonstrates my understanding and application of GitHub concepts.
 - **Next Challenge**: My next project will delve into GitHub command-line mastery, building upon the foundation laid here.
     This the repository used for this challenge: https://github.com/Pratikchandrathakur/Centralized-repository-shipping_calculations
